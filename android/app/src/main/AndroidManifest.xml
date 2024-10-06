@@ -51,7 +51,7 @@
 
 
     <application
-        android:label="Your_App_Name"
+        android:label="Briye Akademi"
         android:usesCleartextTraffic="true"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
