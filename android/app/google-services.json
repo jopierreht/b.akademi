@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "514727267059",
+    "project_id": "briyeakademi",
+    "storage_bucket": "briyeakademi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514727267059:android:71e0acea3777a658074586",
+        "android_client_info": {
+          "package_name": "com.briye.akademi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514727267059-b08ps4a56jbrhurehp2i1q7s4f3v7l46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.briye.akademi",
+            "certificate_hash": "5fe3eb1af252a3e0c667aa694222360ee37abe90"
+          }
+        },
+        {
+          "client_id": "514727267059-nr4h82hjk8d8802koivh3mm8ia8jtem6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.briye.akademi",
+            "certificate_hash": "ea4da19e652d628c7c6097b5dfbfc1f6b19dd707"
+          }
+        },
+        {
+          "client_id": "514727267059-ilm52kpa97d2cdnienckbg3skau05lf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe7czuQQmESauoixT0XxrM29EBpONTZZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514727267059-g8s9j5sokii8g7a2ep7jsv68t1ifrlga.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "514727267059-m3pndsvmul5puue6ht17eptb3vbv4bqk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.briye.akademi",
+                "app_store_id": "6654895691"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
